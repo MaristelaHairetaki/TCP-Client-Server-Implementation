@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 22 12:48:22 2021
-
-@author: ehalep
-"""
-
 # Maristela Hairetaki E18174
 
 from struct import *
