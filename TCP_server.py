@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 22 12:47:00 2021
-
-@author: ehalep
-"""
-
 # Maristela Hairetaki E18174
 
 # Import the socket library
