@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project, is an implementation of the TCP protocol using Python, and was an assinment for the course "Internet Protocols", that I took during my 3rd year of undergraduate studies.
+This project, is an implementation of the TCP protocol using Python, and was an assignment for the course "Internet Protocols", that I took during my 3rd year of undergraduate studies.
 
 The server works as a calculator, and can perform 4 basic arithmetic calculations 
 (addition, subtraction, division and multiplication). 
