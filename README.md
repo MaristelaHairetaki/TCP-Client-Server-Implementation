@@ -1,6 +1,6 @@
 # TCP Client-Server Implementation
 
-##Introduction
+## Introduction
 
 This project, is an implementation of the TCP protocol using Python, and was an assinment for the course "Internet Protocols", that I took during my 3rd year of undergraduate studies.
 
